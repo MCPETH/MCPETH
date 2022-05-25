@@ -7,6 +7,4 @@
 
 
 
-
-
-[<img src="https://img.shields.io/badge/Personal%20Site-mcpeth.com-green">](https://mcpeth.com)
+[<img align="center" src="https://img.shields.io/badge/Personal%20Site-mcpeth.com-green">](https://mcpeth.com)
