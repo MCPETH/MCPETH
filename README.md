@@ -1,5 +1,9 @@
 # 🌳 Hi there, I'm Ton 👋
 
+- 🏢  I’m currently making mywebsite (https://mcpeth.com)
+- 🍉  I’m currently learning something. 
+- 🎈 Fun fact: I like to play valorant and lose!
+***
 
 [![MCPETH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCPETH&theme=radical)](https://github.com/MCPETH)
 
