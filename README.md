@@ -22,6 +22,4 @@
 
 
 [<img align="center" src="https://img.shields.io/badge/Personal%20Site-mcpeth.com-green">](https://mcpeth.com)
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ***
