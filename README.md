@@ -6,7 +6,7 @@
 ***
 
 [![MCPETH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCPETH&theme=radical)](https://github.com/MCPETH)
-
+https://pagespeed-insights.herokuapp.com/?url=https://mcpeth.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCPETH&layout=compact&theme=radical)](https://github.com/MCPETH)
 
 
@@ -23,4 +23,5 @@
 
 
 [<img align="center" src="https://img.shields.io/badge/Personal%20Site-mcpeth.com-green">](https://mcpeth.com)
+
 ***
