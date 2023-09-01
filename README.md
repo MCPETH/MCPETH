@@ -1,6 +1,6 @@
 # 🌳 Hi there, I'm Ton 👋
 
-- 🏢  I’m currently making mywebsite (https://mcpeth.com)
+- 🏢  I’m currently making mywebsite (https://pokpong.net)
 - 🍉  I’m currently learning something. 
 - 🎈 Fun fact: I like to play valorant and lose!
 ***
